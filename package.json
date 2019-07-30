@@ -10,10 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/BraydenGray416/ajaxJSON.git"
   },
-  "author": "",
+  "keywords": [
+    "ajax",
+    "json"
+  ],
+  "author": "Brayden Gray",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BraydenGray416/ajaxJSON/issues"
   },
-  "homepage": "https://github.com/BraydenGray416/ajaxJSON#readme"
+  "homepage": "https://github.com/BraydenGray416/ajaxJSON#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
